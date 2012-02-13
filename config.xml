@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Неприличный гороскоп</name>
+	<name>Loan and mortgage calculator</name>
 
 	<description>
-		Неприоичный гороскоп. Узнай, что ждет тебя завтра
+		Loan and mortgage calculator
 	</description>
 
 	<author email="free3er@gmail.com">
